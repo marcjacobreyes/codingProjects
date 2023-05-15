@@ -6,8 +6,6 @@
         (a) The file can be read using Panda's read_csv function
         (b) The file contains data than can be used to create a "clean"
             DataFrame object.
-    
-    (c) 2022, Terri Davis
 """
 # Import the Pandas library; thislibrary is used throughout, so imported here
 import pandas as pd
